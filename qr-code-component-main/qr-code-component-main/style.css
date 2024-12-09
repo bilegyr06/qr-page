@@ -1,0 +1,101 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+/*for mobile dev*/
+.container{
+    max-height: 650px;
+    
+}
+
+.qrBody{
+    margin: 20% auto;
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    flex-direction: column;
+    border: 1px solid transparent;
+    border-radius: 15px;
+    width: 330px;
+    height: 480px;
+    padding: 12px;
+    box-sizing: border-box;
+    
+}
+
+.qrimg{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.qrimg img{
+    height: 300px;
+    width: 300px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    
+}
+.text h1{
+    color: hsl(218, 44%, 22%);
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    padding: 16px 17px 12px;
+    font-family: outfit;
+}
+
+.text p{
+    font-size: 15px;
+    color: hsl(216, 15%, 48%);
+    font-weight: 400;
+    text-align: center;
+    padding: 0px 27px 20px;
+    font-family: outfit;
+}
+
+
+.attribution { 
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+
+
+}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+/*for desktp dev*/
+
+@media screen and (min-width:425px  ) {
+    .qrBody{
+        margin: 18% auto;
+    }
+    
+}
+@media screen and (min-width:768px  ) {
+    .qrBody{
+        margin: 10% auto;
+    }
+    
+}
+@media screen and (min-width:1024px  ) {
+    .qrBody{
+        margin: 7% auto;
+    }
+    
+}
+@media screen and (min-width:1440px  ) {
+    .qrBody{
+        margin: 8% auto;
+    }
+    
+}
