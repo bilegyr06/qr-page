@@ -77,13 +77,19 @@ body{
 
 @media screen and (min-width:425px  ) {
     .qrBody{
-        margin: 18% auto;
+        margin: 10% auto;
+    }
+    
+}
+@media screen and (min-width:670px  ) {
+    .qrBody{
+        margin: 10% auto;
     }
     
 }
 @media screen and (min-width:768px  ) {
     .qrBody{
-        margin: 10% auto;
+        margin: 6% auto;
     }
     
 }
