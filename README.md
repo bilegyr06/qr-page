@@ -16,7 +16,7 @@ My first Frontend mentor project
 
 ### Screenshot
 
-![](Screenshot_9-12-2024_211730_127.0.0.1.jpeg)
+![](qr-code-component-main\qr-code-component-main\Screenshot_9-12-2024_211730_127.0.0.1.jpeg)
 
 ### Links
 
