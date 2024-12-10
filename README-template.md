@@ -26,7 +26,7 @@ My first Frontend mentor project
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://github.com/bilegyr06/qr-page/blob/main/qr-code-component-main/qr-code-component-main/index.html)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
