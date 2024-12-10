@@ -9,13 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 My first Frontend mentor project
@@ -42,6 +36,7 @@ My first Frontend mentor project
 - Mobile-first workflow
 
 ## Author
+Ayodeji Ajayi
 
 - Frontend Mentor - [bilegyr06](https://www.frontendmentor.io/profile/bilegyr06)
 - LinkedIn - [Ayodeji Ajayi](https://www.linkedin.com/in/ayodeji-ajayi-83006a287/)
